@@ -45,12 +45,7 @@ public class BreathingExercise : MonoBehaviour
 
     //current phase of the exercise
     public BreathPhase currentPhase = BreathPhase.REST;
-    
 
-    void Start()
-    {
-
-    }
 
     // Update is called once per frame
     void Update()
@@ -267,37 +262,37 @@ public class BreathingExercise : MonoBehaviour
     // }
 
     void phaseChecker()
-{
-    int phase = 0;
-
-    if (phaseOneComplete) { phase++; }
-    if (phaseTwoComplete) { phase++; }
-    if (phaseThreeComplete) { phase++; }
-    if (phaseFourComplete) { phase++; }
-
-    switch (phase)
     {
-        case 0:
-            phaseOneComplete = true;
-            stage_number.text = "1 / 4";
-            break;
-        case 1:
-            phaseTwoComplete = true;
-            stage_number.text = "2 / 4";
-            break;
-        case 2:
-            phaseThreeComplete = true;
-            stage_number.text = "3 / 4";
-            break;
-        case 3:
-            phaseFourComplete = true;
-            phaseFiveComplete = true;
-            stage_number.text = "4 / 4";
-            break;
-        case 4:
-   //         phaseFiveComplete = true;
-   //         stage_number.text = "5 / 5";
-            break;
+        int phase = 0;
+
+        if (phaseOneComplete) { phase++; }
+        if (phaseTwoComplete) { phase++; }
+        if (phaseThreeComplete) { phase++; }
+        if (phaseFourComplete) { phase++; }
+
+        switch (phase)
+        {
+            case 0:
+                phaseOneComplete = true;
+                stage_number.text = "1 / 4";
+                break;
+            case 1:
+                phaseTwoComplete = true;
+                stage_number.text = "2 / 4";
+                break;
+            case 2:
+                phaseThreeComplete = true;
+                stage_number.text = "3 / 4";
+                break;
+            case 3:
+                phaseFourComplete = true;
+                phaseFiveComplete = true;
+                stage_number.text = "4 / 4";
+                break;
+            case 4:
+                //         phaseFiveComplete = true;
+                //         stage_number.text = "5 / 5";
+                break;
+        }
     }
-}
 }
