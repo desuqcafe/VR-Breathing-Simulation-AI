@@ -6,6 +6,9 @@ using UnityEngine.XR;
 
 public class GazeWatcher : MonoBehaviour
 {
+
+    public ChatGPTSubscriber chatGPTSubscriber;
+
     public GameObject planeObject;
     public Color lookingAtColor;
     public Color notLookingAtColor;
@@ -23,6 +26,20 @@ public class GazeWatcher : MonoBehaviour
     private int totalGazeOnTime = 0;
     private int longestGazeOnStreak = 0;
     private int currentGazeOnStreak = 0;
+
+
+    IEnumerator CheckGazeOffCount()
+    {
+        while (true)
+        {
+            yield return new WaitForSeconds(5f);
+
+            if (gazeOffCount > 0)
+            {
+                chatGPTSubscriber.SendGazeOffMessage();
+            }
+        }
+    }
 
     public void ResetGazeData()
     {
@@ -51,6 +68,8 @@ public class GazeWatcher : MonoBehaviour
         }
 
         StartCoroutine(CheckGazeAndLog());
+        StartCoroutine(CheckGazeOffCount());
+
     }
 
     void Update()

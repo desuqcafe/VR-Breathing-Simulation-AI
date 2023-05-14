@@ -7,6 +7,10 @@ using UnityEngine.VFX;
 public class OrbExpandContract : MonoBehaviour
 {
 
+    // Add this line to create a reference to ChatGPTSubscribe
+    public ChatGPTSubscriber chatGPTSubscribe;
+
+
     public VisualEffect vfx;
     public BreathingExercise breath_script;
     public GazeWatcher gazeWatcher;
@@ -116,6 +120,10 @@ public class OrbExpandContract : MonoBehaviour
                     gazeWatcher.ResetGazeData();
 
                     countMe = (countMe - 2);
+
+
+                    // Send a message to ChatGPT
+                    chatGPTSubscribe.SendPhaseFinishedMessage("EXHALE phase finished");
                 }
                 break;
             case BreathPhase.REST:
