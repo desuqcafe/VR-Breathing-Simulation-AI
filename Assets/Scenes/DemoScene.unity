@@ -3472,9 +3472,48 @@ PrefabInstance:
       propertyPath: _model
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 603542551254500911, guid: 34db6704cbcaf71438f2766fd4fc7d71, type: 3}
+      propertyPath: _chatbotName
+      value: MeditationGPT
+      objectReference: {fileID: 0}
+    - target: {fileID: 603542551254500911, guid: 34db6704cbcaf71438f2766fd4fc7d71, type: 3}
+      propertyPath: _initialPrompt
+      value: You are meditationGPT, you give simple meditation advice to the user.
+        meditationGPT must reply in 10 words or less. Do not be too over-supportive.
+        The user is participating in a Virtual Reality Boxbox Breathing technique
+        and is watching a ball expand and contract within the environment.
+      objectReference: {fileID: 0}
     - target: {fileID: 688218991609900562, guid: 34db6704cbcaf71438f2766fd4fc7d71, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 789181856869310938, guid: 34db6704cbcaf71438f2766fd4fc7d71, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.467
+      objectReference: {fileID: 0}
+    - target: {fileID: 789181856869310938, guid: 34db6704cbcaf71438f2766fd4fc7d71, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9659245
+      objectReference: {fileID: 0}
+    - target: {fileID: 789181856869310938, guid: 34db6704cbcaf71438f2766fd4fc7d71, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.25882396
+      objectReference: {fileID: 0}
+    - target: {fileID: 789181856869310938, guid: 34db6704cbcaf71438f2766fd4fc7d71, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0.269
+      objectReference: {fileID: 0}
+    - target: {fileID: 789181856869310938, guid: 34db6704cbcaf71438f2766fd4fc7d71, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -0.621
+      objectReference: {fileID: 0}
+    - target: {fileID: 789181856869310938, guid: 34db6704cbcaf71438f2766fd4fc7d71, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -30.001
+      objectReference: {fileID: 0}
+    - target: {fileID: 2315897155521069136, guid: 34db6704cbcaf71438f2766fd4fc7d71, type: 3}
+      propertyPath: m_text
+      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 2315897155521069136, guid: 34db6704cbcaf71438f2766fd4fc7d71, type: 3}
       propertyPath: m_fontColor.b
@@ -3487,6 +3526,10 @@ PrefabInstance:
     - target: {fileID: 2315897155521069136, guid: 34db6704cbcaf71438f2766fd4fc7d71, type: 3}
       propertyPath: m_fontColor.r
       value: 0.9811321
+      objectReference: {fileID: 0}
+    - target: {fileID: 2315897155521069136, guid: 34db6704cbcaf71438f2766fd4fc7d71, type: 3}
+      propertyPath: m_fontColor32.rgba
+      value: 4281697786
       objectReference: {fileID: 0}
     - target: {fileID: 2895155094312637758, guid: 34db6704cbcaf71438f2766fd4fc7d71, type: 3}
       propertyPath: m_IsActive
@@ -7527,6 +7570,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2e87d8c8f4a60cf4e88d5df18daa8bb4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  chatGPTSubscribe: {fileID: 346961871}
+  sphereMovement: {fileID: 780708646}
   vfx: {fileID: 622763365}
   breath_script: {fileID: 1979653548}
   gazeWatcher: {fileID: 1526898045}
@@ -7762,6 +7807,51 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 5186735023777053022, guid: ac8efb728f1fb9b4092c4df591c827ca, type: 3}
   m_PrefabInstance: {fileID: 282606851}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &650814947
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 650814948}
+  - component: {fileID: 650814949}
+  m_Layer: 0
+  m_Name: Whisper Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &650814948
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 650814947}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 36.760254, y: 3.060257, z: 3.2853718}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 32
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &650814949
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 650814947}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a50c06d6aa656da4a97fe6e4669896bf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  chatGPTSubscriber: {fileID: 346961871}
 --- !u!1001 &657921334
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9589,6 +9679,126 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 6566244067485207586, guid: b54dfb0610564fe4a8f86ea25d41b8ec, type: 3}
   m_PrefabInstance: {fileID: 775726966}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &780708645
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 780708650}
+  - component: {fileID: 780708649}
+  - component: {fileID: 780708648}
+  - component: {fileID: 780708647}
+  - component: {fileID: 780708646}
+  m_Layer: 0
+  m_Name: FriendSpherer
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &780708646
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 780708645}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5968a37cb8e2d8449a71bdab98e2c73a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  amplitude: 0.5
+  speed: 1
+--- !u!135 &780708647
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 780708645}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!23 &780708648
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 780708645}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: daa369bd02fa73646ac487b775ae6317, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!33 &780708649
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 780708645}
+  m_Mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!4 &780708650
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 780708645}
+  m_LocalRotation: {x: -0, y: 0.35397786, z: -0, w: 0.93525386}
+  m_LocalPosition: {x: 29.757, y: 2.479, z: 29.812}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 33
+  m_LocalEulerAnglesHint: {x: 0, y: 41.462, z: 0}
 --- !u!1001 &784385005
 PrefabInstance:
   m_ObjectHideFlags: 0

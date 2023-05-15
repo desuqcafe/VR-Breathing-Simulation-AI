@@ -15,7 +15,7 @@ public class ChatGPTSubscriber : MonoBehaviour
     public TextMeshProUGUI chatDisplay;
 
     // Initial prompt for ChatGPT
-    public string initialPrompt = "You are MeditationGPT, you give meditation motivation to the user. You must reply in 20 tokens or less. If you receive a prompt User Gaze Unfocused, then give advice how to focus better. The user is doing breathing meditation technique and watching magic ball expand and contract on queue.";
+    public string initialPrompt = "You are meditationGPT, you give meditation advice to the user. meditationGPT must reply in 10 words or less. Do not be too over-supportive. The user is participating in a Virtual Reality Boxbox Breathing technique and is watching a ball expand and contract within the environment.";
 
 
     private void Awake()
@@ -35,15 +35,23 @@ public class ChatGPTSubscriber : MonoBehaviour
     public void SendChatMessage()
     {
         string message = chatInputField.text;
-        chatGPTConversation.SendToChatGPT(initialPrompt + " \n" + message);
-        // Remove this line if you don't want to display your message
-        // chatDisplay.text += "You: " + message + "\n";
+        SendToChatGPT(message);
         chatInputField.text = "";
+    }
+
+    public void SendVoiceMessage(string message)
+    {
+        SendToChatGPT(initialPrompt + " \n" + message);
+    }
+
+    private void SendToChatGPT(string message)
+    {
+        chatGPTConversation.SendToChatGPT(initialPrompt + " \n" + message);
     }
 
     public void SendGazeOffMessage()
     {
-        chatGPTConversation.SendToChatGPT(initialPrompt + " \n" + "The user's Gaze Prompt was off");
+        chatGPTConversation.SendToChatGPT(initialPrompt + " \n" + "The user is not focusing so try to encourage them to focus briefly. Reply in 10 or less tokens.");
     }
 
     public void SendPhaseFinishedMessage(string message)

@@ -28,18 +28,18 @@ public class GazeWatcher : MonoBehaviour
     private int currentGazeOnStreak = 0;
 
 
-    IEnumerator CheckGazeOffCount()
-    {
-        while (true)
-        {
-            yield return new WaitForSeconds(5f);
+    // IEnumerator CheckGazeOffCount()
+    // {
+    //     while (true)
+    //     {
+    //         yield return new WaitForSeconds(5f);
 
-            if (gazeOffCount > 0)
-            {
-                chatGPTSubscriber.SendGazeOffMessage();
-            }
-        }
-    }
+    //         if (gazeOffCount > 0)
+    //         {
+    //             chatGPTSubscriber.SendGazeOffMessage();
+    //         }
+    //     }
+    // }
 
     public void ResetGazeData()
     {
@@ -68,7 +68,7 @@ public class GazeWatcher : MonoBehaviour
         }
 
         StartCoroutine(CheckGazeAndLog());
-        StartCoroutine(CheckGazeOffCount());
+        //StartCoroutine(CheckGazeOffCount());
 
     }
 

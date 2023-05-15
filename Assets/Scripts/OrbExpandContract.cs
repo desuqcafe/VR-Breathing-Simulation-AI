@@ -11,6 +11,15 @@ public class OrbExpandContract : MonoBehaviour
     public ChatGPTSubscriber chatGPTSubscribe;
 
 
+
+    public SphereMovement sphereMovement;
+
+    public void StartSphereMovement()
+    {
+        sphereMovement.StartSphereMovement();
+    }
+
+
     public VisualEffect vfx;
     public BreathingExercise breath_script;
     public GazeWatcher gazeWatcher;
@@ -56,7 +65,7 @@ public class OrbExpandContract : MonoBehaviour
         }
     }
 
-    
+
     // List to store each phase's data
     public List<PhaseData> phaseDataList = new List<PhaseData>();
 
@@ -74,14 +83,15 @@ public class OrbExpandContract : MonoBehaviour
     void Update()
     {
 
-     switch (breath_script.currentPhase)
+        switch (breath_script.currentPhase)
         {
             case BreathPhase.INHALE:
-             if (countMe == 1) {
-             SetSize(3.8f);
-             countMe++;
-            }
-             break;
+                if (countMe == 1)
+                {
+                    SetSize(3.8f);
+                    countMe++;
+                }
+                break;
             case BreathPhase.HOLD:
                 if (countMe == 2)
                 {
@@ -121,9 +131,19 @@ public class OrbExpandContract : MonoBehaviour
 
                     countMe = (countMe - 2);
 
+                    // Send a message to ChatGPT based on the time spent looking at the plane
+                    if (GazeWatcher.timeSpentLookingAtPlane >= 0.5)
+                    {
+                        Debug.Log("Good: " + GazeWatcher.timeSpentLookingAtPlane);
+                        chatGPTSubscribe.SendPhaseFinishedMessage("EXHALE phase finished user did well");
+                    }
+                    else
+                    {
+                        Debug.Log("Bad: " + GazeWatcher.timeSpentLookingAtPlane);
+                        chatGPTSubscribe.SendPhaseFinishedMessage("EXHALE phase finsihed user lacks of focus. Remind the user to focus on the magic ball");
+                    }
 
-                    // Send a message to ChatGPT
-                    chatGPTSubscribe.SendPhaseFinishedMessage("EXHALE phase finished");
+                    StartSphereMovement();
                 }
                 break;
             case BreathPhase.REST:
