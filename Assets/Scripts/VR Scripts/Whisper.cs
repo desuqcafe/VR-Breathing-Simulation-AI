@@ -18,21 +18,22 @@ namespace OpenAI
 
         private void Start()
         {
+            // Get the list of available microphones
+            string[] mics = Microphone.devices;
 
-            foreach (var device in Microphone.devices)
+            // Check if there are any microphones
+            if (mics.Length > 0)
             {
-                Debug.Log("Name: " + device);
-            }
-            if (Microphone.devices.Length > 0)
-            {
-                //StartRecording();
+                // Log the name of the default microphone
+                Debug.Log("Current active microphone: " + mics[0]);
             }
             else
             {
-                Debug.LogError("No microphone found!");
+                // Log a warning if no microphones were found
+                Debug.LogWarning("No microphones found!");
             }
         }
-        
+
         private void Update()
         {
             if (Keyboard.current.mKey.wasPressedThisFrame && !isRecording)
@@ -45,7 +46,7 @@ namespace OpenAI
             {
                 time += Time.deltaTime;
 
-                if (!Keyboard.current.nKey.wasPressedThisFrame || time >= duration)
+                if (Keyboard.current.nKey.wasPressedThisFrame || time >= duration)
                 {
                     time = 0;
                     isRecording = false;
@@ -62,6 +63,8 @@ namespace OpenAI
 
         private async void EndRecording()
         {
+            Debug.Log("RecordingEnded");
+            
             Microphone.End(null);
             byte[] data = SaveWav.Save(fileName, clip);
             

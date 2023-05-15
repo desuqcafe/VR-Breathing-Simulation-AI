@@ -7817,6 +7817,7 @@ GameObject:
   m_Component:
   - component: {fileID: 650814948}
   - component: {fileID: 650814949}
+  - component: {fileID: 650814950}
   m_Layer: 0
   m_Name: Whisper Manager
   m_TagString: Untagged
@@ -7852,6 +7853,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   chatGPTSubscriber: {fileID: 346961871}
+--- !u!114 &650814950
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 650814947}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b3d2c209bd0754db14afdf01a36758, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &657921334
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -18276,10 +18289,10 @@ MonoBehaviour:
   m_TrackingStateInput:
     m_UseReference: 0
     m_Action:
-      m_Name: 
+      m_Name: Tracking State Input
       m_Type: 0
       m_ExpectedControlType: 
-      m_Id: 
+      m_Id: d1484f4e-376e-485b-81eb-7b3e0c2c0c1d
       m_Processors: 
       m_Interactions: 
       m_SingletonActionBindings: []
