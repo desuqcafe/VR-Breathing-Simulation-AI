@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Networking;
 using System.Threading.Tasks;
+using ChatGPTWrapper; // for Goodies
 
 public class GPT4_ElevenLabsManager : MonoBehaviour
 {

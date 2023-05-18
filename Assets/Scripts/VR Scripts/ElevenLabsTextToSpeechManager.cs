@@ -27,19 +27,19 @@ public class ElevenLabsTextToSpeechManager : MonoBehaviour
       //  ExampleOfUse();
     }
 
-    //*  EXAMPLE START (Cut and paste to your own code)*/
-   void ExampleOfUse()
-    {
-        ElevenLabsTextToSpeechManager ttsScript = gameObject.GetComponent<ElevenLabsTextToSpeechManager>();
-        string text = "Hello world!";
-        string elevenLabsAPIKey = "put it here";
-        string elevenLabs_voiceID = "VR6AewLTigWG4xSOukaG"; //Full list of elevenlabs voices: https://beta.elevenlabs.io/speech-synthesis  ( or really, https://api.elevenlabs.io/v1/voices )
-        string json = ttsScript.BuildTTSJSON(text);
+//     //*  EXAMPLE START (Cut and paste to your own code)*/
+//    void ExampleOfUse()
+//     {
+//         ElevenLabsTextToSpeechManager ttsScript = gameObject.GetComponent<ElevenLabsTextToSpeechManager>();
+//         string text = "Hello world!";
+//         string elevenLabsAPIKey = "mm";
+//         string elevenLabs_voiceID = "mm"; //Full list of elevenlabs voices: https://beta.elevenlabs.io/speech-synthesis  ( or really, https://api.elevenlabs.io/v1/voices )
+//         string json = ttsScript.BuildTTSJSON(text);
 
-        //test
-        RTDB db = new RTDB();
-        ttsScript.SpawnTTSRequest(json, OnTTSCompletedCallback, db, elevenLabsAPIKey, elevenLabs_voiceID);
-    }
+//         //test
+//         RTDB db = new RTDB();
+//         ttsScript.SpawnTTSRequest(json, OnTTSCompletedCallback, db, elevenLabsAPIKey, elevenLabs_voiceID);
+//     }
 
     void OnTTSCompletedCallback(RTDB db, AudioClip clip)
     {

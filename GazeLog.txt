@@ -16873,3 +16873,3153 @@ Total Gaze On Time: 0
 Longest Gaze On Streak: 0
 Current Gaze On Streak: 0
 ---------------------------------
+Frame 93: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 183: 1
+Time Spent Looking at Plane: 0.5464481
+Average Duration of Continuous Focus: 1
+Gaze On Count: 1
+Gaze Off Count: 0
+Total Gaze On Time: 1
+Longest Gaze On Streak: 1
+Current Gaze On Streak: 1
+---------------------------------
+Frame 272: 1
+Time Spent Looking at Plane: 0.3676471
+Average Duration of Continuous Focus: 1
+Gaze On Count: 1
+Gaze Off Count: 0
+Total Gaze On Time: 1
+Longest Gaze On Streak: 1
+Current Gaze On Streak: 1
+---------------------------------
+Frame 360: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 449: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 538: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 627: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 636: 1
+Time Spent Looking at Plane: 0.1572327
+Average Duration of Continuous Focus: 1
+Gaze On Count: 1
+Gaze Off Count: 0
+Total Gaze On Time: 1
+Longest Gaze On Streak: 1
+Current Gaze On Streak: 1
+---------------------------------
+Frame 725: 1
+Time Spent Looking at Plane: 0.137931
+Average Duration of Continuous Focus: 1
+Gaze On Count: 1
+Gaze Off Count: 0
+Total Gaze On Time: 1
+Longest Gaze On Streak: 1
+Current Gaze On Streak: 1
+---------------------------------
+Frame 814: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 908: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 1053: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 1210: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 1367: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 1530: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 1686: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 1775: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 1860: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 1948: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 2034: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 2126: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 2212: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 2301: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 2390: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 2487: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 2569: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 2656: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 2747: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 2837: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 2924: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 3011: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 3100: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 3190: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 3282: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 3352: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 3437: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 3527: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 3616: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 3705: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 3798: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 3881: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 3968: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 4061: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 4149: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 4285: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 4370: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 4453: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 4542: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 4630: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 4721: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 4802: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 4838: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 4928: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 5016: 1
+Time Spent Looking at Plane: 0.0199362
+Average Duration of Continuous Focus: 1
+Gaze On Count: 1
+Gaze Off Count: 0
+Total Gaze On Time: 1
+Longest Gaze On Streak: 1
+Current Gaze On Streak: 1
+---------------------------------
+Frame 5102: 1
+Time Spent Looking at Plane: 0.01960016
+Average Duration of Continuous Focus: 1
+Gaze On Count: 1
+Gaze Off Count: 0
+Total Gaze On Time: 1
+Longest Gaze On Streak: 1
+Current Gaze On Streak: 1
+---------------------------------
+Frame 5189: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 5199: 1
+Time Spent Looking at Plane: 0.01923447
+Average Duration of Continuous Focus: 1
+Gaze On Count: 1
+Gaze Off Count: 0
+Total Gaze On Time: 1
+Longest Gaze On Streak: 1
+Current Gaze On Streak: 1
+---------------------------------
+Frame 5291: 1
+Time Spent Looking at Plane: 0.01890002
+Average Duration of Continuous Focus: 1
+Gaze On Count: 1
+Gaze Off Count: 0
+Total Gaze On Time: 1
+Longest Gaze On Streak: 1
+Current Gaze On Streak: 1
+---------------------------------
+Frame 5381: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 5469: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 5562: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 5681: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 5789: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 5881: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 5971: 1
+Time Spent Looking at Plane: 0.01674761
+Average Duration of Continuous Focus: 1
+Gaze On Count: 1
+Gaze Off Count: 0
+Total Gaze On Time: 1
+Longest Gaze On Streak: 1
+Current Gaze On Streak: 1
+---------------------------------
+Frame 6062: 1
+Time Spent Looking at Plane: 0.01649621
+Average Duration of Continuous Focus: 1
+Gaze On Count: 1
+Gaze Off Count: 0
+Total Gaze On Time: 1
+Longest Gaze On Streak: 1
+Current Gaze On Streak: 1
+---------------------------------
+Frame 6150: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 6247: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 6332: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 6420: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 6566: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 6657: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 6748: 1
+Time Spent Looking at Plane: 0.01481921
+Average Duration of Continuous Focus: 1
+Gaze On Count: 1
+Gaze Off Count: 0
+Total Gaze On Time: 1
+Longest Gaze On Streak: 1
+Current Gaze On Streak: 1
+---------------------------------
+Frame 6841: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 6931: 1
+Time Spent Looking at Plane: 0.01442793
+Average Duration of Continuous Focus: 1
+Gaze On Count: 1
+Gaze Off Count: 0
+Total Gaze On Time: 1
+Longest Gaze On Streak: 1
+Current Gaze On Streak: 1
+---------------------------------
+Frame 7021: 1
+Time Spent Looking at Plane: 0.01424299
+Average Duration of Continuous Focus: 1
+Gaze On Count: 1
+Gaze Off Count: 0
+Total Gaze On Time: 1
+Longest Gaze On Streak: 1
+Current Gaze On Streak: 1
+---------------------------------
+Frame 7108: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 7197: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 7328: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 7486: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 7653: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 7791: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 7945: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 8080: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 8166: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 8254: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 8345: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 8437: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 8527: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 8615: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 8765: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 8853: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 8944: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 9033: 1
+Time Spent Looking at Plane: 0.01107052
+Average Duration of Continuous Focus: 1
+Gaze On Count: 1
+Gaze Off Count: 0
+Total Gaze On Time: 1
+Longest Gaze On Streak: 1
+Current Gaze On Streak: 1
+---------------------------------
+Frame 9119: 1
+Time Spent Looking at Plane: 0.01096611
+Average Duration of Continuous Focus: 1
+Gaze On Count: 1
+Gaze Off Count: 0
+Total Gaze On Time: 1
+Longest Gaze On Streak: 1
+Current Gaze On Streak: 1
+---------------------------------
+Frame 9212: 1
+Time Spent Looking at Plane: 0.01085541
+Average Duration of Continuous Focus: 1
+Gaze On Count: 1
+Gaze Off Count: 0
+Total Gaze On Time: 1
+Longest Gaze On Streak: 1
+Current Gaze On Streak: 1
+---------------------------------
+Frame 9302: 1
+Time Spent Looking at Plane: 0.01075038
+Average Duration of Continuous Focus: 1
+Gaze On Count: 1
+Gaze Off Count: 0
+Total Gaze On Time: 1
+Longest Gaze On Streak: 1
+Current Gaze On Streak: 1
+---------------------------------
+Frame 9391: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 9547: 1
+Time Spent Looking at Plane: 0.01047449
+Average Duration of Continuous Focus: 1
+Gaze On Count: 1
+Gaze Off Count: 0
+Total Gaze On Time: 1
+Longest Gaze On Streak: 1
+Current Gaze On Streak: 1
+---------------------------------
+Frame 9687: 1
+Time Spent Looking at Plane: 0.01032311
+Average Duration of Continuous Focus: 1
+Gaze On Count: 1
+Gaze Off Count: 0
+Total Gaze On Time: 1
+Longest Gaze On Streak: 1
+Current Gaze On Streak: 1
+---------------------------------
+Frame 9845: 1
+Time Spent Looking at Plane: 0.01015744
+Average Duration of Continuous Focus: 1
+Gaze On Count: 1
+Gaze Off Count: 0
+Total Gaze On Time: 1
+Longest Gaze On Streak: 1
+Current Gaze On Streak: 1
+---------------------------------
+Frame 10003: 1
+Time Spent Looking at Plane: 0.009997001
+Average Duration of Continuous Focus: 1
+Gaze On Count: 1
+Gaze Off Count: 0
+Total Gaze On Time: 1
+Longest Gaze On Streak: 1
+Current Gaze On Streak: 1
+---------------------------------
+Frame 10155: 1
+Time Spent Looking at Plane: 0.009847366
+Average Duration of Continuous Focus: 1
+Gaze On Count: 1
+Gaze Off Count: 0
+Total Gaze On Time: 1
+Longest Gaze On Streak: 1
+Current Gaze On Streak: 1
+---------------------------------
+Frame 10352: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 10549: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 10690: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 10878: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 11055: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 11241: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 11417: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 11506: 1
+Time Spent Looking at Plane: 0.008691118
+Average Duration of Continuous Focus: 1
+Gaze On Count: 1
+Gaze Off Count: 0
+Total Gaze On Time: 1
+Longest Gaze On Streak: 1
+Current Gaze On Streak: 1
+---------------------------------
+Frame 11596: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 11682: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 11819: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 11910: 1
+Time Spent Looking at Plane: 0.008396306
+Average Duration of Continuous Focus: 1
+Gaze On Count: 1
+Gaze Off Count: 0
+Total Gaze On Time: 1
+Longest Gaze On Streak: 1
+Current Gaze On Streak: 1
+---------------------------------
+Frame 11998: 1
+Time Spent Looking at Plane: 0.008334722
+Average Duration of Continuous Focus: 1
+Gaze On Count: 1
+Gaze Off Count: 0
+Total Gaze On Time: 1
+Longest Gaze On Streak: 1
+Current Gaze On Streak: 1
+---------------------------------
+Frame 12100: 1
+Time Spent Looking at Plane: 0.008264462
+Average Duration of Continuous Focus: 1
+Gaze On Count: 1
+Gaze Off Count: 0
+Total Gaze On Time: 1
+Longest Gaze On Streak: 1
+Current Gaze On Streak: 1
+---------------------------------
+Frame 12189: 1
+Time Spent Looking at Plane: 0.008204118
+Average Duration of Continuous Focus: 1
+Gaze On Count: 1
+Gaze Off Count: 0
+Total Gaze On Time: 1
+Longest Gaze On Streak: 1
+Current Gaze On Streak: 1
+---------------------------------
+Frame 12276: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 12362: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 12450: 1
+Time Spent Looking at Plane: 0.008032128
+Average Duration of Continuous Focus: 1
+Gaze On Count: 1
+Gaze Off Count: 0
+Total Gaze On Time: 1
+Longest Gaze On Streak: 1
+Current Gaze On Streak: 1
+---------------------------------
+Frame 12580: 1
+Time Spent Looking at Plane: 0.007949126
+Average Duration of Continuous Focus: 1
+Gaze On Count: 1
+Gaze Off Count: 0
+Total Gaze On Time: 1
+Longest Gaze On Streak: 1
+Current Gaze On Streak: 1
+---------------------------------
+Frame 136: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 278: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 453: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 657: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 846: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 1040: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 1221: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 1391: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 1575: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 1697: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 1817: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 1953: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 2078: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 2207: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 2362: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 2473: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 2618: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 2771: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 2891: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 3035: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 3178: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 3332: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 3471: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 3633: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 3784: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 3943: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 4073: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 4213: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 4340: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 4515: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 4667: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 4843: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 5020: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 5236: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 5400: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 5562: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 5725: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 5882: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 6041: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 2
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 6207: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 3
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 6360: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 4
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 6516: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 6690: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 2
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 6850: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 3
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 7007: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 4
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 7129: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 7296: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 2
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 7456: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 3
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 7589: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 4
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 7774: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 5
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 7944: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 6
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 8082: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 7
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 8246: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 8
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 8411: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 8578: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 2
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 8748: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 3
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 8903: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 4
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 9067: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 9294: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 2
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 9452: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 3
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 9692: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 4
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 9861: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 5
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 10089: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 6
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 10355: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 7
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 10592: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 8
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 10825: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 11083: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 2
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 11328: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 3
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 11543: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 4
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 11744: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 11993: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 2
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 12228: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 3
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 12480: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 4
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 12705: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 5
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 12884: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 6
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 13134: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 7
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 13365: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 8
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 13608: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 13857: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 2
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 14102: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 3
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 14324: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 4
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 14560: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 14790: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 2
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 15006: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 3
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 15252: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 4
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 15445: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 15636: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 15813: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 15976: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 16117: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 16287: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 16433: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 16615: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 16798: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 16994: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 17139: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 17301: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 17473: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 17662: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 17845: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 18010: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 18204: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 18373: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 18561: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 18737: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 18921: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 19102: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 19253: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 19424: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 19603: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 19751: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 19871: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 20037: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 20231: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 20392: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 20556: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 20693: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 20869: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 21030: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 21187: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 21355: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 21518: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 21687: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 21841: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 22013: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 22198: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 22383: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 22510: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 22672: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 22834: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 23017: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 23203: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 23377: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 23555: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 23717: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 23886: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 23974: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 24130: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 24289: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 24472: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 24649: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 24804: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 24984: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 25162: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 25346: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 25514: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 25686: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 25838: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 84: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 243: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 392: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 559: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 724: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 882: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 1036: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 1202: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 1365: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 1536: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 1691: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 1844: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 2003: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 2168: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 2332: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 2
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 2488: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 3
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 2649: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 4
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 2808: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 2966: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 2
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 3124: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 3
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 3283: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 4
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 3441: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 3603: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 2
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 3770: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 3
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 3927: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 4
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 4088: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 5
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 4262: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 6
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 4421: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 7
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 4583: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 8
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 4734: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 4892: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 2
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 5048: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 3
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 5188: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 4
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 5350: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 5516: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 2
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 5596: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 3
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 154: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 319: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 474: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 643: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 803: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 965: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 1123: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 1263: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 1423: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 1585: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 1747: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 1907: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 2060: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 2221: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 2381: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 2541: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 2697: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 2856: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 3010: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 3172: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 3330: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 2
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 3499: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 3
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 3658: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 4
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 3818: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 3979: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 2
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 4142: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 3
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 4301: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 4
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 4460: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 4618: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 2
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 4786: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 3
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 4944: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 4
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 5107: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 5
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 5265: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 6
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 5428: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 7
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 5589: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 8
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 5760: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 5923: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 2
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 6077: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 3
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 6242: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 4
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 6398: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 1
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 6546: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 2
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 6705: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 3
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 6871: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 4
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------
+Frame 7047: 0
+Time Spent Looking at Plane: 0
+Average Duration of Continuous Focus: 0
+Gaze On Count: 0
+Gaze Off Count: 5
+Total Gaze On Time: 0
+Longest Gaze On Streak: 0
+Current Gaze On Streak: 0
+---------------------------------

@@ -1048,6 +1048,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MeditationGPT
       objectReference: {fileID: 0}
+    - target: {fileID: 603542551254500911, guid: 34db6704cbcaf71438f2766fd4fc7d71, type: 3}
+      propertyPath: _apiKey
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 6325614174823672481, guid: 34db6704cbcaf71438f2766fd4fc7d71, type: 3}
       propertyPath: m_RootOrder
       value: 11

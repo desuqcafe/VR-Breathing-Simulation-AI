@@ -3473,15 +3473,16 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 603542551254500911, guid: 34db6704cbcaf71438f2766fd4fc7d71, type: 3}
+      propertyPath: _apiKey
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 603542551254500911, guid: 34db6704cbcaf71438f2766fd4fc7d71, type: 3}
       propertyPath: _chatbotName
       value: MeditationGPT
       objectReference: {fileID: 0}
     - target: {fileID: 603542551254500911, guid: 34db6704cbcaf71438f2766fd4fc7d71, type: 3}
       propertyPath: _initialPrompt
-      value: You are meditationGPT, you give simple meditation advice to the user.
-        meditationGPT must reply in 10 words or less. Do not be too over-supportive.
-        The user is participating in a Virtual Reality Boxbox Breathing technique
-        and is watching a ball expand and contract within the environment.
+      value: say error if this prompt is read
       objectReference: {fileID: 0}
     - target: {fileID: 688218991609900562, guid: 34db6704cbcaf71438f2766fd4fc7d71, type: 3}
       propertyPath: m_IsActive
