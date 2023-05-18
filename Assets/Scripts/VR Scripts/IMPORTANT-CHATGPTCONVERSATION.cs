@@ -1,0 +1,234 @@
+// ChatGPTSubscriber Wrapper for Unity script adjustment
+
+// Replace ChatGPTConversation with this code then navigate to a directory to have your keys and load them in
+
+
+
+
+
+
+
+
+
+
+
+
+
+// using UnityEngine;
+// using System.Collections.Generic;
+// using Reqs;
+// using System.IO;
+
+
+// namespace ChatGPTWrapper {
+
+//     public class ChatGPTConversation : MonoBehaviour
+//     {
+//         [SerializeField]
+//         private bool _useProxy = false;
+//         [SerializeField]
+//         private string _proxyUri = null;
+
+//         [SerializeField]
+//         private string _apiKey;
+
+//         public enum Model {
+//             ChatGPT,
+//             Davinci,
+//             Curie
+//         }
+//         [SerializeField]
+//         public Model _model = Model.ChatGPT;
+//         private string _selectedModel = null;
+//         [SerializeField]
+//         private int _maxTokens = 500;
+//         [SerializeField]
+//         private float _temperature = 0.5f;
+        
+//         private string _uri;
+//         private List<(string, string)> _reqHeaders;
+        
+
+//         private Requests requests = new Requests();
+//         private Prompt _prompt;
+//         private Chat _chat;
+//         private string _lastUserMsg;
+//         private string _lastChatGPTMsg;
+
+
+
+
+//         // API Keys and other values from the Goodies class
+//         public static string api_ElevenLabUrl = "https://api.elevenlabs.io/v1/text-to-speech";
+//         public static string api_ElevenLabKey;
+//         public static string id_ElevenLabVoice;
+//         public static string api_OpenAIKey;
+
+
+
+//         [SerializeField]
+//         private string _chatbotName = "meditationGPT";
+
+//         [TextArea(4,6)]
+//         [SerializeField]
+//         private string _initialPrompt = "You are meditationGPT, you give simple meditation advice to the user. meditationGPT must reply in 10 words or less. Do not be too over-supportive. The user is participating in a Virtual Reality Boxbox Breathing technique and is watching a ball expand and contract within the environment.";
+
+//         public UnityStringEvent chatGPTResponse = new UnityStringEvent();
+
+//         private void Awake()
+//         {
+//             LoadGoodies();
+//         }
+
+//         private void LoadGoodies() 
+//         {
+//             string path = "C:/Users/desuq/luminavault/meditation_vr_app/meditation_access.txt";
+//             if (!File.Exists(path))
+//             {
+//                 Debug.LogError("Config file doesn't exist");
+//                 return;
+//             }
+
+//             try
+//             {
+//                 using (StreamReader sr = new StreamReader(path))
+//                 {
+//                     string line;
+//                     while ((line = sr.ReadLine()) != null)
+//                     {
+//                         string[] parts = line.Split('=');
+//                         if (parts.Length < 2)
+//                         {
+//                             Debug.LogError("Error in config file: invalid line");
+//                             continue;
+//                         }
+//                         switch (parts[0])
+//                         {
+//                             case "API_ELEVENLABKEY":
+//                                 api_ElevenLabKey = parts[1];
+//                                 break;
+//                             case "ID_ELEVENLABVOICE":
+//                                 id_ElevenLabVoice = parts[1];
+//                                 break;
+//                             case "API_OPENAIKEY":
+//                                 api_OpenAIKey = parts[1];
+//                                 break;
+//                         }
+//                     }
+//                 }
+//             }
+//             catch (System.Exception e)
+//             {
+//                 Debug.LogError("Unexpected error: " + e.Message);
+//             }
+//         }
+
+//         private void OnEnable()
+//         {
+//             _apiKey = api_OpenAIKey;
+            
+
+//             // Loaded from txt file (goodies script)
+//             // TextAsset textAsset = Resources.Load<TextAsset>("APIKEY");
+//             // if (textAsset != null) {
+//             //     _apiKey = textAsset.text;
+//             // }
+            
+            
+//             _reqHeaders = new List<(string, string)>
+//             { 
+//                 ("Authorization", $"Bearer {_apiKey}"),
+//                 ("Content-Type", "application/json")
+//             };
+//             switch (_model) {
+//                 case Model.ChatGPT:
+//                     _chat = new Chat(_initialPrompt);
+//                     _uri = "https://api.openai.com/v1/chat/completions";
+//                     _selectedModel = "gpt-3.5-turbo";
+//                     break;
+//                 case Model.Davinci:
+//                     _prompt = new Prompt(_chatbotName, _initialPrompt);
+//                     _uri = "https://api.openai.com/v1/completions";
+//                     _selectedModel = "text-davinci-003";
+//                     break;
+//                 case Model.Curie:
+//                     _prompt = new Prompt(_chatbotName, _initialPrompt);
+//                     _uri = "https://api.openai.com/v1/completions";
+//                     _selectedModel = "text-curie-001";
+//                     break;
+//             }
+//         }
+
+//         public void ResetChat(string initialPrompt) {
+//             switch (_model) {
+//                 case Model.ChatGPT:
+//                     _chat = new Chat(initialPrompt);
+//                     break;
+//                 default:
+//                     _prompt = new Prompt(_chatbotName, initialPrompt);
+//                     break;
+//             }
+//         }
+
+//         public void SendToChatGPT(string message)
+//         {
+//             _lastUserMsg = message;
+
+//             if (_model == Model.ChatGPT) {
+//                 if (_useProxy) {
+//                     ProxyReq proxyReq = new ProxyReq();
+//                     proxyReq.max_tokens = _maxTokens;
+//                     proxyReq.temperature = _temperature;
+//                     proxyReq.messages = new List<Message>(_chat.CurrentChat);
+//                     proxyReq.messages.Add(new Message("user", message));
+
+//                     string proxyJson = JsonUtility.ToJson(proxyReq);
+
+//                     StartCoroutine(requests.PostReq<ChatGPTRes>(_proxyUri, proxyJson, ResolveChatGPT, _reqHeaders));
+//                 } else {
+//                     ChatGPTReq chatGPTReq = new ChatGPTReq();
+//                     chatGPTReq.model = _selectedModel;
+//                     chatGPTReq.max_tokens = _maxTokens;
+//                     chatGPTReq.temperature = _temperature;
+//                     chatGPTReq.messages = _chat.CurrentChat;
+//                     chatGPTReq.messages.Add(new Message("user", message));
+            
+//                     string chatGPTJson = JsonUtility.ToJson(chatGPTReq);
+                    
+//                     StartCoroutine(requests.PostReq<ChatGPTRes>(_uri, chatGPTJson, ResolveChatGPT, _reqHeaders));
+//                 }
+                
+//             } else {
+
+//                 _prompt.AppendText(Prompt.Speaker.User, message);
+
+//                 GPTReq reqObj = new GPTReq();
+//                 reqObj.model = _selectedModel;
+//                 reqObj.prompt = _prompt.CurrentPrompt;
+//                 reqObj.max_tokens = _maxTokens;
+//                 reqObj.temperature = _temperature;
+//                 string json = JsonUtility.ToJson(reqObj);
+
+//                 StartCoroutine(requests.PostReq<GPTRes>(_uri, json, ResolveGPT, _reqHeaders));
+//             }
+//         }
+
+//         private void ResolveChatGPT(ChatGPTRes res)
+//         {
+//             _lastChatGPTMsg = res.choices[0].message.content;
+//             _chat.AppendMessage(Chat.Speaker.User, _lastUserMsg);
+//             _chat.AppendMessage(Chat.Speaker.ChatGPT, _lastChatGPTMsg);
+//             chatGPTResponse.Invoke(_lastChatGPTMsg);
+//         }
+
+//         private void ResolveGPT(GPTRes res)
+//         {
+//             _lastChatGPTMsg = res.choices[0].text
+//                 .TrimStart('\n')
+//                 .Replace("<|im_end|>", "");
+
+//             _prompt.AppendText(Prompt.Speaker.Bot, _lastChatGPTMsg);
+//             chatGPTResponse.Invoke(_lastChatGPTMsg);
+//         }
+//     }
+// }
